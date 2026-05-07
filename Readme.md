@@ -18,7 +18,7 @@ This project mimics the look and feel of a real crypto wallet — but does NOT c
 - 🎭 Perfect for pranks, larping 
 
 ---
-
+ 
 ## 📦 Use Cases
 
 - Prank your friends with a “rich wallet” 😎  
